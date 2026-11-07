@@ -1,0 +1,3 @@
+# Normalise line endings so Windows and Linux checkouts stay identical
+* text=auto
+*.png binary
